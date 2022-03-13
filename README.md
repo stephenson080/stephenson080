@@ -1,2 +1,1 @@
-My Name is Stephen Udeh. A innovative tech mind. I am a web and mobile developer with Typescript/Javascript. i am also good at python and a little bit of java. i am currently learning Django framework.
-I write node/expressjs, React, React-native
+My Name is Stephen Udeh. A innovative tech mind. I am a web, mobile and blockchain(Ethereum) developer with Typescript/Javascript and python. 
