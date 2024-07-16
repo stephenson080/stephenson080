@@ -13,7 +13,7 @@ Typescript/Javascript | Solidity | Html | CSS
 - *NestJs*
 - *ExpressJs*
 - *NodeJs*
-- *Hardhat8
+- *Hardhat*
 - *Android Studio*
 - *Xcode*
 
