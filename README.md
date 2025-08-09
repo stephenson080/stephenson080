@@ -16,9 +16,15 @@ Typescript/Javascript | Solidity | Html | CSS
 - *Hardhat*
 - *Android Studio*
 - *Xcode*
+- *EVM*
+- *Solana*
 
 ### Projects
-1. [DEIMR](https://deimr.com)
-2. [Trendx](https:///trendx.app)
-3. [Blockplot](https://blockplot.org)
-4. [Asset Chain Bridge](https://bridge-testnet.assetchain.org/)
+1. [Asset Chain](https://assetchain.org/)
+2. [Asset Chain Bridge](https://bridge.assetchain.org/)
+3. [Asset Chain Swap](https://swap.assetchain.org/)
+4. [Asset Chain Liquidity Mining](https://app.assetchain.org/)
+5. [SFX Money App](https://sfxchange.co/en)
+6. [DEIMR](https://deimr.com)
+7. [Trendx](https:///trendx.app)
+8. [Blockplot](https://blockplot.org)
